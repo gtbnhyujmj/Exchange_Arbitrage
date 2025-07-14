@@ -1,0 +1,21 @@
+「加密貨幣的搬磚套利」英文常見的說法是：
+
+Crypto Arbitrage 或更具體地：
+
+✅ 常用說法：
+Crypto Arbitrage Trading — 加密貨幣套利交易
+
+Cross-Exchange Arbitrage — 跨交易所套利
+
+Triangular Arbitrage — 三角套利（若牽涉到同一交易所不同幣種間價差）
+
+Spatial Arbitrage — 空間套利（指不同地點或平台的價格差）
+
+✅ 若強調「搬磚」的行為（低買高賣、來回搬移）：
+Brick Arbitrage（這是中文「搬磚」的直譯，但英語使用不普遍）
+
+建議用自然表達方式：
+
+Manual Arbitrage between Exchanges
+
+Taking advantage of price differences between crypto exchanges
